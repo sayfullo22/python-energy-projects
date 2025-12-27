@@ -12,7 +12,7 @@ This repository demonstrates:
 
 ## 📂 Projects
 
-### 1. [10 Energy Analysis Tasks](./10-energy-analysis-tasks/)
+### 1. [10 Energy Analysis Tasks](./10-energy-analysis-task/)
 Comprehensive analysis exercises covering solar PV, wind power, battery storage, EV charging, microgrids, and energy efficiency. Includes statistical analysis, visualization, and optimization techniques.
 
 **Technologies:** Python, Pandas, NumPy, Matplotlib  
