@@ -98,4 +98,17 @@ Each task includes:
 - Clean, well-commented Python code
 - Data processing and transformation
 - Statistical analysis and calculations
-- Pro
+- Professional visualizations
+- Insights and interpretations
+
+
+## 📧 Contact
+
+**Sayfullo Saidov*
+- Email: ss4113@princeton.edu
+
+---
+
+**Note**: This project was created for educational purposes to demonstrate data analysis skills in the renewable energy sector. Datasets are simplified examples for learning.
+```
+
